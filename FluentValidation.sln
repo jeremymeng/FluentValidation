@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25029.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3906F280-A567-4AD7-A0EF-7253E95E7852}"
 	ProjectSection(SolutionItems) = preProject
@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Tests.Port
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Portable46", "src\FluentValidation.Portable46\FluentValidation.Portable46.csproj", "{61421970-1637-4EF1-837E-EDFF9D6D9A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Portable.netstandard", "src\FluentValidation.Portable.netstandard\FluentValidation.Portable.netstandard.csproj", "{E586F7D4-E518-49E6-9F67-DEB1A4D797D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +102,10 @@ Global
 		{61421970-1637-4EF1-837E-EDFF9D6D9A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61421970-1637-4EF1-837E-EDFF9D6D9A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61421970-1637-4EF1-837E-EDFF9D6D9A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E586F7D4-E518-49E6-9F67-DEB1A4D797D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E586F7D4-E518-49E6-9F67-DEB1A4D797D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E586F7D4-E518-49E6-9F67-DEB1A4D797D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E586F7D4-E518-49E6-9F67-DEB1A4D797D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
