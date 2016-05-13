@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>FluentValidation</id>
+    <id>FluentValidation-netcore</id>
     <version></version>
     <authors>Jeremy Skinner</authors>
     <licenseUrl>https://github.com/JeremySkinner/FluentValidation/blob/master/License.txt</licenseUrl>
